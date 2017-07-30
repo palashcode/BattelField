@@ -152,7 +152,7 @@ public class exp
 		panel2.setBorder(BorderFactory.createTitledBorder("Select Orientation"));
 		
 		btn1=new JButton("Fix Position");
-		btn1.setBounds(50,650,100,60);
+		btn1.setBounds(300,650,150,60);
 		
 		btn1.addActionListener(new ActionListener(){
 			public void actionPerformed(ActionEvent e)
